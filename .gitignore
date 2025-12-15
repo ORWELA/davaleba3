@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/workspace.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
